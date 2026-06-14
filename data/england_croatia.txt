@@ -1,0 +1,58 @@
+England face Croatia in Group B of the 2026 FIFA 
+World Cup on June 17th at Rose Bowl, Los Angeles.
+
+ENGLAND TEAM NEWS:
+Jude Bellingham confirmed fit and starting.
+Harry Kane leads attack — 5 goals in last 4 World Cup matches.
+Bukayo Saka doubtful with hamstring tightness.
+Phil Foden in excellent club form this season.
+Gareth Southgate sets up in 4-3-3 formation.
+England unbeaten in last 8 competitive matches.
+Strong defensive record — 4 clean sheets in a row.
+
+CROATIA TEAM NEWS:
+Luka Modric confirmed starting — his final World Cup at age 40.
+Gvardiol solid at left back — excellent season.
+Croatia missing Perisic through knee injury.
+Croatia historically slow starters in tournaments.
+
+MATCH CONDITIONS:
+Temperature 28 degrees Celsius, sunny afternoon.
+Evening kickoff 8pm local time.
+High stakes — loser faces early exit pressure.
+England fans 40,000 expected in stadium.
+Referee known for strict discipline.
+
+HISTORICAL CONTEXT:
+Croatia beat England in 2018 World Cup semi-final.
+England seeking revenge on biggest stage.
+Last 3 meetings — Croatia won 2, England won 1.
+
+GOALKEEPER SIGNALS:
+Jordan Pickford (England): strong tournament form.
+Made crucial save in last round.
+Excellent at penalties — saved one in Euro 2020.
+Shot stopping has improved significantly.
+
+Livakovic (Croatia): outstanding goalkeeper.
+Saved 3 penalties in 2022 World Cup run.
+Known as specialist penalty stopper.
+Could be Croatia's most important player
+if match goes to penalties.
+
+Add to england_croatia.txt:
+
+DEFENSIVE SIGNALS:
+England defensive record:
+4 consecutive clean sheets this tournament
+Averaged 18 defensive actions per match
+Only 3 shots on target conceded in last 2 games
+Stones and Maguire commanding in the air
+Full backs disciplined — rarely caught high
+
+Croatia attacking threat:
+Averaged 12 shots per match
+8 shots on target in last match
+Modric creates from deep — hard to press
+Gvardiol overlapping creates width problems
+Set pieces a danger — 3 goals from corners

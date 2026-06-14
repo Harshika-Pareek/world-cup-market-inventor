@@ -1,0 +1,167 @@
+[
+  {
+    "market": "Will there be a red card?",
+    "category": "discipline",
+    "verdict_correct": true,
+    "llm_confidence": 0.78,
+    "expert_confidence": 0.88,
+    "score_difference": 0.1,
+    "llm_verdict": "APPROVED",
+    "expert_verdict": "APPROVED",
+    "llm_reasoning": "The market is straightforward to settle and can be exciting for fans, but experts may attempt to exploit it by analyzing team and player disciplinary records."
+  },
+  {
+    "market": "Most creative celebration",
+    "category": "subjective",
+    "verdict_correct": true,
+    "llm_confidence": 0.41,
+    "expert_confidence": 0.15,
+    "score_difference": 0.26,
+    "llm_verdict": "REJECTED",
+    "expert_verdict": "REJECTED",
+    "llm_reasoning": "This market is too subjective and prone to customer disputes."
+  },
+  {
+    "market": "First goal before 10 minutes",
+    "category": "time_based",
+    "verdict_correct": true,
+    "llm_confidence": 0.88,
+    "expert_confidence": 0.9,
+    "score_difference": 0.02,
+    "llm_verdict": "APPROVED",
+    "expert_verdict": "APPROVED",
+    "llm_reasoning": "This market is a time-based market with a clear and objective outcome, making it suitable for customers."
+  },
+  {
+    "market": "Both teams score",
+    "category": "outcome",
+    "verdict_correct": true,
+    "llm_confidence": 0.88,
+    "expert_confidence": 0.82,
+    "score_difference": 0.06,
+    "llm_verdict": "APPROVED",
+    "expert_verdict": "APPROVED",
+    "llm_reasoning": "This market is straightforward to settle and has a high level of customer confidence."
+  },
+  {
+    "market": "Referee nationality",
+    "category": "trivial",
+    "verdict_correct": false,
+    "llm_confidence": 0.73,
+    "expert_confidence": 0.38,
+    "score_difference": 0.35,
+    "llm_verdict": "REVIEW",
+    "expert_verdict": "REJECTED",
+    "llm_reasoning": "This market is trivial and lacks excitement for casual fans."
+  },
+  {
+    "market": "Match goes to extra time",
+    "category": "outcome",
+    "verdict_correct": true,
+    "llm_confidence": 0.9,
+    "expert_confidence": 0.85,
+    "score_difference": 0.05,
+    "llm_verdict": "APPROVED",
+    "expert_verdict": "APPROVED",
+    "llm_reasoning": "The outcome is clearly determined by the score at the end of 90 minutes, making it a straightforward and exciting market to offer to customers."
+  },
+  {
+    "market": "Total corners over 9.5",
+    "category": "stats",
+    "verdict_correct": false,
+    "llm_confidence": 0.8,
+    "expert_confidence": 0.67,
+    "score_difference": 0.13,
+    "llm_verdict": "APPROVED",
+    "expert_verdict": "REVIEW",
+    "llm_reasoning": "The market is settleable and enjoyable, but experts may have an edge in predicting corner kicks."
+  },
+  {
+    "market": "Goalkeeper Makes 5 Plus Saves",
+    "category": "goalkeeper",
+    "verdict_correct": true,
+    "llm_confidence": 0.82,
+    "expert_confidence": 0.78,
+    "score_difference": 0.04,
+    "llm_verdict": "APPROVED",
+    "expert_verdict": "APPROVED",
+    "llm_reasoning": "This market is a well-established and safe goalkeeper market with clear settlement criteria."
+  },
+  {
+    "market": "Clean Sheet For Either Team",
+    "category": "goalkeeper",
+    "verdict_correct": true,
+    "llm_confidence": 0.82,
+    "expert_confidence": 0.86,
+    "score_difference": 0.04,
+    "llm_verdict": "APPROVED",
+    "expert_verdict": "APPROVED",
+    "llm_reasoning": "This market is a well-established and safe goalkeeper-related market with clear settlement criteria."
+  },
+  {
+    "market": "Match Decided By Penalty Shootout",
+    "category": "goalkeeper",
+    "verdict_correct": true,
+    "llm_confidence": 0.88,
+    "expert_confidence": 0.92,
+    "score_difference": 0.04,
+    "llm_verdict": "APPROVED",
+    "expert_verdict": "APPROVED",
+    "llm_reasoning": "The outcome is clearly determined by official rules and easily verifiable."
+  },
+  {
+    "market": "Goalkeeper Saves Penalty In Match",
+    "category": "goalkeeper",
+    "verdict_correct": true,
+    "llm_confidence": 0.82,
+    "expert_confidence": 0.9,
+    "score_difference": 0.08,
+    "llm_verdict": "APPROVED",
+    "expert_verdict": "APPROVED",
+    "llm_reasoning": "This market is a well-established and safe goalkeeper market with clear settlement criteria."
+  },
+  {
+    "market": "Goalkeeper Named Player Of The Match",
+    "category": "goalkeeper",
+    "verdict_correct": true,
+    "llm_confidence": 0.74,
+    "expert_confidence": 0.72,
+    "score_difference": 0.02,
+    "llm_verdict": "REVIEW",
+    "expert_verdict": "REVIEW",
+    "llm_reasoning": "The market is settleable as the official player of the match award is clearly determined, but it may not be the most exciting bet for casual fans and has a relatively low risk of being exploited by experts."
+  },
+  {
+    "market": "Most saves by goalkeeper over 3.5",
+    "category": "goalkeeper",
+    "verdict_correct": false,
+    "llm_confidence": 0.82,
+    "expert_confidence": 0.72,
+    "score_difference": 0.1,
+    "llm_verdict": "APPROVED",
+    "expert_verdict": "REVIEW",
+    "llm_reasoning": "This market is a goalkeeper market with clear and objective settlement criteria, making it a safe and enjoyable bet for customers."
+  },
+  {
+    "market": "Croatia formation switch",
+    "category": "tactical",
+    "verdict_correct": false,
+    "llm_confidence": 0.5,
+    "expert_confidence": 0.18,
+    "score_difference": 0.32,
+    "llm_verdict": "REVIEW",
+    "expert_verdict": "REJECTED",
+    "llm_reasoning": "The market is too ambiguous to settle fairly due to the subjective nature of formation changes."
+  },
+  {
+    "market": "Total yellow cards over 3.5",
+    "category": "discipline",
+    "verdict_correct": true,
+    "llm_confidence": 0.78,
+    "expert_confidence": 0.8,
+    "score_difference": 0.02,
+    "llm_verdict": "APPROVED",
+    "expert_verdict": "APPROVED",
+    "llm_reasoning": "The market is settleable and enjoyable, but experts may slightly exploit it due to their knowledge of referee tendencies and team disciplinary records."
+  }
+]

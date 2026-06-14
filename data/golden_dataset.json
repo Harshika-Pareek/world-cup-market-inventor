@@ -1,0 +1,203 @@
+{
+    "description": "Expert-validated betting markets for calibrating LLM critic",
+    "version": "1.1",
+    "created_by": "Trading team expert review",
+    "notes": "Scores estimated based on betting domain knowledge. In production these would come from experienced trader sessions.",
+    "markets": [
+      {
+        "market_name": "Will there be a red card?",
+        "description": "Will any player be sent off during the match?",
+        "category": "discipline",
+        "expert_scores": {
+          "settleable_score": 1.0,
+          "fun_score": 0.8,
+          "exploit_risk": 0.2,
+          "overall_confidence": 0.88
+        },
+        "expert_verdict": "APPROVED",
+        "expert_reasoning": "Clear settlement from official data. Exciting for fans. Hard to exploit."
+      },
+      {
+        "market_name": "Most creative celebration",
+        "description": "Which player performs the most creative goal celebration?",
+        "category": "subjective",
+        "expert_scores": {
+          "settleable_score": 0.1,
+          "fun_score": 0.5,
+          "exploit_risk": 0.3,
+          "overall_confidence": 0.15
+        },
+        "expert_verdict": "REJECTED",
+        "expert_reasoning": "Completely subjective. Cannot be settled objectively. Never offer this type of market."
+      },
+      {
+        "market_name": "First goal before 10 minutes",
+        "description": "Will either team score within the first 10 minutes?",
+        "category": "time_based",
+        "expert_scores": {
+          "settleable_score": 1.0,
+          "fun_score": 0.9,
+          "exploit_risk": 0.25,
+          "overall_confidence": 0.90
+        },
+        "expert_verdict": "APPROVED",
+        "expert_reasoning": "Perfect market. Clear settlement. Very exciting. Low exploit risk."
+      },
+      {
+        "market_name": "Both teams score",
+        "description": "Will both teams score at least one goal each?",
+        "category": "outcome",
+        "expert_scores": {
+          "settleable_score": 1.0,
+          "fun_score": 0.8,
+          "exploit_risk": 0.4,
+          "overall_confidence": 0.82
+        },
+        "expert_verdict": "APPROVED",
+        "expert_reasoning": "Classic popular market. Clear settlement. Manageable risk."
+      },
+      {
+        "market_name": "Referee nationality",
+        "description": "What nationality is the match referee?",
+        "category": "trivial",
+        "expert_scores": {
+          "settleable_score": 1.0,
+          "fun_score": 0.1,
+          "exploit_risk": 0.1,
+          "overall_confidence": 0.38
+        },
+        "expert_verdict": "REJECTED",
+        "expert_reasoning": "Settleable but zero fun. Nobody bets on this. Waste of market slot."
+      },
+      {
+        "market_name": "Match goes to extra time",
+        "description": "Will the match be level after 90 minutes requiring extra time?",
+        "category": "outcome",
+        "expert_scores": {
+          "settleable_score": 1.0,
+          "fun_score": 0.8,
+          "exploit_risk": 0.3,
+          "overall_confidence": 0.85
+        },
+        "expert_verdict": "APPROVED",
+        "expert_reasoning": "Clear settlement. Exciting prospect. Low exploit risk."
+      },
+      {
+        "market_name": "Total corners over 9.5",
+        "description": "Will there be 10 or more corners in the match?",
+        "category": "stats",
+        "expert_scores": {
+          "settleable_score": 0.9,
+          "fun_score": 0.6,
+          "exploit_risk": 0.5,
+          "overall_confidence": 0.67
+        },
+        "expert_verdict": "REVIEW",
+        "expert_reasoning": "Settleable but moderate fun and exploit risk. Trader should review pricing carefully."
+      },
+      {
+        "market_name": "Goalkeeper Makes 5 Plus Saves",
+        "description": "Will the starting goalkeeper make 5 or more saves during the match?",
+        "category": "goalkeeper",
+        "expert_scores": {
+          "settleable_score": 0.9,
+          "fun_score": 0.7,
+          "exploit_risk": 0.3,
+          "overall_confidence": 0.78
+        },
+        "expert_verdict": "APPROVED",
+        "expert_reasoning": "Clear from official match stats. Exciting for fans who follow goalkeepers. Rewards good shot stopping."
+      },
+      {
+        "market_name": "Clean Sheet For Either Team",
+        "description": "Will either team keep a clean sheet and concede no goals?",
+        "category": "goalkeeper",
+        "expert_scores": {
+          "settleable_score": 1.0,
+          "fun_score": 0.8,
+          "exploit_risk": 0.3,
+          "overall_confidence": 0.86
+        },
+        "expert_verdict": "APPROVED",
+        "expert_reasoning": "Very clear settlement. Popular market. Goalkeeper heroics make it exciting. Low exploit risk."
+      },
+      {
+        "market_name": "Match Decided By Penalty Shootout",
+        "description": "Will the match go to a penalty shootout after extra time?",
+        "category": "goalkeeper",
+        "expert_scores": {
+          "settleable_score": 1.0,
+          "fun_score": 0.9,
+          "exploit_risk": 0.2,
+          "overall_confidence": 0.92
+        },
+        "expert_verdict": "APPROVED",
+        "expert_reasoning": "Most dramatic World Cup market. Crystal clear settlement. Very low exploit risk. Maximum fan excitement."
+      },
+      {
+        "market_name": "Goalkeeper Saves Penalty In Match",
+        "description": "Will either goalkeeper save a penalty during normal time or extra time?",
+        "category": "goalkeeper",
+        "expert_scores": {
+          "settleable_score": 1.0,
+          "fun_score": 0.9,
+          "exploit_risk": 0.2,
+          "overall_confidence": 0.90
+        },
+        "expert_verdict": "APPROVED",
+        "expert_reasoning": "Dramatic moment. Clear settlement. Hard to exploit. Martinez and Livakovic both known penalty specialists — very relevant signal."
+      },
+      {
+        "market_name": "Goalkeeper Named Player Of The Match",
+        "description": "Will a goalkeeper win the official player of the match award?",
+        "category": "goalkeeper",
+        "expert_scores": {
+          "settleable_score": 0.8,
+          "fun_score": 0.7,
+          "exploit_risk": 0.3,
+          "overall_confidence": 0.72
+        },
+        "expert_verdict": "REVIEW",
+        "expert_reasoning": "Settleable from official award. Fun narrative around goalkeeper heroics. Moderate confidence — depends on match context."
+      },
+      {
+        "market_name": "Most saves by goalkeeper over 3.5",
+        "description": "Will the goalkeeper with the most saves in the match make 4 or more saves?",
+        "category": "goalkeeper",
+        "expert_scores": {
+          "settleable_score": 0.85,
+          "fun_score": 0.65,
+          "exploit_risk": 0.35,
+          "overall_confidence": 0.72
+        },
+        "expert_verdict": "REVIEW",
+        "expert_reasoning": "Settleable from official data. Moderate fan appeal. Depends on match being one-sided. Trader should check data provider."
+      },
+      {
+        "market_name": "Croatia formation switch",
+        "description": "Will Croatia change their tactical formation during the match?",
+        "category": "tactical",
+        "expert_scores": {
+          "settleable_score": 0.3,
+          "fun_score": 0.2,
+          "exploit_risk": 0.7,
+          "overall_confidence": 0.18
+        },
+        "expert_verdict": "REJECTED",
+        "expert_reasoning": "Too ambiguous — formation changes are subjective judgement calls. Low fun. High exploit risk from tactical insiders."
+      },
+      {
+        "market_name": "Total yellow cards over 3.5",
+        "description": "Will there be 4 or more yellow cards shown in the match?",
+        "category": "discipline",
+        "expert_scores": {
+          "settleable_score": 1.0,
+          "fun_score": 0.7,
+          "exploit_risk": 0.4,
+          "overall_confidence": 0.80
+        },
+        "expert_verdict": "APPROVED",
+        "expert_reasoning": "Clear settlement. Interesting market. Standard discipline market with manageable risk."
+      }
+    ]
+  }

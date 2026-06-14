@@ -1,0 +1,6 @@
+groq
+streamlit
+mlflow
+pydantic
+python-dotenv
+requests
