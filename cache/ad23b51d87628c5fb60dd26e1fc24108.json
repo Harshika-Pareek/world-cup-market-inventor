@@ -1,0 +1,5 @@
+{
+  "key": "ad23b51d87628c5fb60dd26e1fc24108",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: TACTICAL\nCATEGORY GUIDANCE: This is a TA",
+  "result": "{\n    \"settleable_score\": 0.3,\n    \"fun_score\": 0.4,\n    \"exploit_risk\": 0.7,\n    \"overall_confidence\": 0.25,\n    \"reasoning\": \"Croatia's formation switch is difficult to predict and settle objectively, but it has moderate appeal to casual fans and significant risk of being exploited by tactical insiders.\"\n}"
+}

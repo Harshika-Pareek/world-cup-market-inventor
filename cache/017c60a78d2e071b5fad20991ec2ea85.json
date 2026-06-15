@@ -1,0 +1,5 @@
+{
+  "key": "017c60a78d2e071b5fad20991ec2ea85",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: OUTCOME\nCATEGORY GUIDANCE: This is an OU",
+  "result": "{\n    \"settleable_score\": 0.8,\n    \"fun_score\": 0.8,\n    \"exploit_risk\": 0.4,\n    \"overall_confidence\": 0.8,\n    \"reasoning\": \"Memphis Depay has a history of scoring from outside the box, making this market settleable and fun for fans. However, experts may be able to exploit the pricing due to the subjective nature of the market, and our overall confidence in offering this market is high.\"\n}"
+}

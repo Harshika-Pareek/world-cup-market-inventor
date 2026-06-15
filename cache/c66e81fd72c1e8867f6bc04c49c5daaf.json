@@ -1,0 +1,5 @@
+{
+  "key": "c66e81fd72c1e8867f6bc04c49c5daaf",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: TIME\nCATEGORY GUIDANCE: This is a TIME-B",
+  "result": "{\n    \"settleable_score\": 0.95,\n    \"fun_score\": 0.85,\n    \"exploit_risk\": 0.25,\n    \"overall_confidence\": 0.88,\n    \"reasoning\": \"This market is settleable due to the clear nature of conceding the first goal, it's fun for casual fans as they can enjoy the tension of the early stages of the match, there's a moderate exploit risk as experts can analyze the teams' defensive strategies, and we have a high overall confidence in offering this market.\"\n}"
+}

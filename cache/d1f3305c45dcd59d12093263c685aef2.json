@@ -1,0 +1,5 @@
+{
+  "key": "d1f3305c45dcd59d12093263c685aef2",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: GOALKEEPER\nCATEGORY GUIDANCE: This is a ",
+  "result": "{\n    \"settleable_score\": 0.0,\n    \"fun_score\": 0.8,\n    \"exploit_risk\": 0.2,\n    \"overall_confidence\": 0.85,\n    \"reasoning\": \"This market is not settleable as the outcome is not directly related to the goalkeeper's performance, but it has entertainment value and low exploit risk.\"\n}"
+}

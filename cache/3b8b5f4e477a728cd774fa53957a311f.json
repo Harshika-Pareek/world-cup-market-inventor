@@ -1,0 +1,5 @@
+{
+  "key": "3b8b5f4e477a728cd774fa53957a311f",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: STATS\nCATEGORY GUIDANCE: This is a STATS",
+  "result": "{\n    \"settleable_score\": 0.8,\n    \"fun_score\": 0.6,\n    \"exploit_risk\": 0.5,\n    \"overall_confidence\": 0.65,\n    \"reasoning\": \"Morocco's counter-attack strategy is well-known, but the settleable score is high due to the objective nature of the bet. Casual fans may enjoy this bet as it's a unique aspect of the game. The exploit risk is moderate due to the match situation giving late information edge. Overall confidence is high due to the clear market definition.\"\n}"
+}

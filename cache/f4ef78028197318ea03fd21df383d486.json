@@ -1,0 +1,5 @@
+{
+  "key": "f4ef78028197318ea03fd21df383d486",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: OUTCOME\nCATEGORY GUIDANCE: This is an OU",
+  "result": "{\n    \"settleable_score\": 0.9,\n    \"fun_score\": 0.8,\n    \"exploit_risk\": 0.4,\n    \"overall_confidence\": 0.85,\n    \"reasoning\": \"Griezmann is a skilled player with a history of scoring goals, making this market settleable and fun for fans. However, experts may be able to exploit our pricing due to the subjective nature of Antoine Griezmann's performance, and our overall confidence in this market is high.\"\n}"
+}

@@ -1,0 +1,5 @@
+{
+  "key": "ba413a7ddf1a08a47936eb4e0dd7b67a",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: GOALKEEPER\nCATEGORY GUIDANCE: This is a ",
+  "result": "{\n    \"settleable_score\": 0.9,\n    \"fun_score\": 0.8,\n    \"exploit_risk\": 0.2,\n    \"overall_confidence\": 0.85,\n    \"reasoning\": \"Japan has a strong defense and the Netherlands have struggled to score against solid teams, making this a clear and enjoyable market with limited expert exploitation risk.\"\n}"
+}

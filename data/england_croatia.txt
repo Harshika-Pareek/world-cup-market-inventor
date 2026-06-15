@@ -40,8 +40,6 @@ Known as specialist penalty stopper.
 Could be Croatia's most important player
 if match goes to penalties.
 
-Add to england_croatia.txt:
-
 DEFENSIVE SIGNALS:
 England defensive record:
 4 consecutive clean sheets this tournament

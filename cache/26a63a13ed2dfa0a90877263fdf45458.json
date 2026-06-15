@@ -1,0 +1,5 @@
+{
+  "key": "26a63a13ed2dfa0a90877263fdf45458",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: TIME\nCATEGORY GUIDANCE: This is a TIME-B",
+  "result": "{\n    \"settleable_score\": 0.8,\n    \"fun_score\": 0.85,\n    \"exploit_risk\": 0.25,\n    \"overall_confidence\": 0.85,\n    \"reasoning\": \"This market is settleable as Alisson's performance can be objectively evaluated, it's fun for casual fans as they can enjoy the tension of the first half, there's a moderate exploit risk as experts can analyze Alisson's past performances, and we have high overall confidence in offering this market due to its clear outcome.\"\n}"
+}

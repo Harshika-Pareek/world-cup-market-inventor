@@ -1,0 +1,5 @@
+{
+  "key": "7027b279d09526db60a8fef76d8c1014",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: GENERAL\nCATEGORY GUIDANCE: Evaluate this",
+  "result": "{\n    \"settleable_score\": 0.8,\n    \"fun_score\": 0.6,\n    \"exploit_risk\": 0.2,\n    \"overall_confidence\": 0.7,\n    \"reasoning\": \"This market is settleable as a penalty can be objectively determined, casual fans would enjoy the uncertainty, and experts may struggle to exploit the pricing due to the subjective nature of referee decisions.\"\n}"
+}

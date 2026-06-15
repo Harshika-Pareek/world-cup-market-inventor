@@ -1,0 +1,5 @@
+{
+  "key": "24267055c9043280f2a466e918bfeb61",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: TIME\nCATEGORY GUIDANCE: This is a TIME-B",
+  "result": "{\n    \"settleable_score\": 0.8,\n    \"fun_score\": 0.9,\n    \"exploit_risk\": 0.25,\n    \"overall_confidence\": 0.85,\n    \"reasoning\": \"This market is settleable as the outcome can be objectively determined, fun for casual fans as it creates time tension, has a moderate exploit risk as experts may be able to predict Brazil's scoring patterns, and we have a high overall confidence in offering this market.\"\n}"
+}

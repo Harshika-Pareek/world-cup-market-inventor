@@ -1,0 +1,5 @@
+{
+  "key": "f8d0036d10f0106e4f971577823f91f2",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: DISCIPLINE\nCATEGORY GUIDANCE: This is a ",
+  "result": "{\n    \"settleable_score\": 0.97,\n    \"fun_score\": 0.82,\n    \"exploit_risk\": 0.28,\n    \"overall_confidence\": 0.85,\n    \"reasoning\": \"The market is highly settleable as the outcome can be objectively determined, and fans enjoy the drama of a potential red card, but experts may attempt to exploit pricing due to referee unpredictability.\"\n}"
+}

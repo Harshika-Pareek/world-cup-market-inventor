@@ -27,7 +27,7 @@ def load_golden_dataset() -> list:
     print(f"Loading from: {filepath}")
     with open(filepath, "r") as f:
         data = json.load(f)
-    print(f"Loaded {len(data['markets'])} golden markets ✅")
+    print(f"Loaded {len(data['markets'])} golden markets")
     return data["markets"]
 
 
@@ -196,29 +196,41 @@ def evaluate_critic() -> dict:
     }
 
 
+# evaluation/evaluator.py
+# Update log_to_mlflow function
+
 def log_to_mlflow(accuracy: float,
                   avg_diff: float,
                   results: list):
-    """Log evaluation to MLflow."""
     try:
-        with mlflow.start_run(
-            run_name="golden_dataset_evaluation"
-        ):
+        from datetime import datetime
+        import mlflow
+
+        mlflow.set_tracking_uri("sqlite:///mlflow.db")
+        mlflow.set_experiment("WorldCup_Market_Inventor")
+
+        # Add timestamp so each run is unique
+        timestamp = datetime.now().strftime("%H%M%S")
+        run_name = f"evaluation_{timestamp}"
+
+        with mlflow.start_run(run_name=run_name):
             mlflow.log_metrics({
                 "verdict_accuracy": accuracy,
                 "avg_score_difference": avg_diff,
                 "markets_evaluated": len(results)
             })
             results_path = os.path.join(
-                project_root, "evaluation_results.json"
+                project_root,
+                "evaluation_results.json"
             )
             with open(results_path, "w") as f:
                 json.dump(results, f, indent=2)
             mlflow.log_artifact(results_path)
-        print("Evaluation logged to MLflow ✅")
+
+        print(f"Evaluation logged to MLflow ({run_name})")
+
     except Exception as e:
         print(f"MLflow logging skipped: {e}")
-
 
 if __name__ == "__main__":
     evaluate_critic()

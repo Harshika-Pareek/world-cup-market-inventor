@@ -1,0 +1,5 @@
+{
+  "key": "cbead9aef6edff1b2ded6d487f377d4c",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: TACTICAL\nCATEGORY GUIDANCE: This is a TA",
+  "result": "{\n    \"settleable_score\": 0.3,\n    \"fun_score\": 0.8,\n    \"exploit_risk\": 0.7,\n    \"overall_confidence\": 0.25,\n    \"reasoning\": \"Argentina's high press 4-3-3 system can be objectively evaluated, casual fans would enjoy the tactical aspect of this bet, experts may be able to exploit our pricing due to the complexity of the system, and we should be cautious when offering this market due to its ambiguity.\"\n}"
+}

@@ -1,0 +1,5 @@
+{
+  "key": "9d359611d070b503564e2a837650d8a3",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: STATS\nCATEGORY GUIDANCE: This is a STATS",
+  "result": "{\n    \"settleable_score\": 0.8,\n    \"fun_score\": 0.6,\n    \"exploit_risk\": 0.5,\n    \"overall_confidence\": 0.65,\n    \"reasoning\": \"England's possession dominance is likely in the first half, but settleable score is not 1.0 due to potential Croatia comeback. Casual fans will enjoy this bet as it's a clear team performance metric. Experts may be able to exploit our pricing due to late information edge in match situation. Overall confidence is moderate due to borderline confidence level.\"\n}"
+}

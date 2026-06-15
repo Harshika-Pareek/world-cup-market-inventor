@@ -1,0 +1,5 @@
+{
+  "key": "ab7e3e1474d7b5b6841b37e6c8084870",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: OUTCOME\nCATEGORY GUIDANCE: This is an OU",
+  "result": "{\n    \"settleable_score\": 0.8,\n    \"fun_score\": 0.8,\n    \"exploit_risk\": 0.4,\n    \"overall_confidence\": 0.82,\n    \"reasoning\": \"Memphis Depay is a skilled player with a history of scoring goals, making this market settleable and fun for fans. However, experts may be able to exploit the pricing due to the subjective nature of goal-scoring, and our overall confidence in this market is high.\"\n}"
+}

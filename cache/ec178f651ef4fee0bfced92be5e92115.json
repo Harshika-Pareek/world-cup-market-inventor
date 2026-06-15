@@ -1,0 +1,5 @@
+{
+  "key": "ec178f651ef4fee0bfced92be5e92115",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: GOALKEEPER\nCATEGORY GUIDANCE: This is a ",
+  "result": "{\n    \"settleable_score\": 0.9,\n    \"fun_score\": 0.8,\n    \"exploit_risk\": 0.2,\n    \"overall_confidence\": 0.85,\n    \"reasoning\": \"This market is settleable as we can objectively determine the winner based on the number of penalties saved by Shuichi Gonda. Casual fans would enjoy this bet as it involves a goalkeeper's performance, which can be dramatic. However, experts may be able to exploit the pricing due to the relatively low overall confidence in the market.\"\n}"
+}

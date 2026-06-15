@@ -1,0 +1,5 @@
+{
+  "key": "0a9dd61d665bb05ec9d60cdc8d9f2719",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: GENERAL\nCATEGORY GUIDANCE: Evaluate this",
+  "result": "{\n    \"settleable_score\": 0.8,\n    \"fun_score\": 0.6,\n    \"exploit_risk\": 0.2,\n    \"overall_confidence\": 0.7,\n    \"reasoning\": \"This market is settleable as Cody Gakpo's shot on target can be objectively determined, casual fans may enjoy the excitement of watching him take shots, and there is a moderate risk of experts exploiting the pricing due to the relatively simple nature of the market, but overall confidence is high due to the clear and specific criteria.\"\n}"
+}

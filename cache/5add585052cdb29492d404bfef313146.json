@@ -1,0 +1,5 @@
+{
+  "key": "5add585052cdb29492d404bfef313146",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: TRIVIAL\nCATEGORY GUIDANCE: This is a TRI",
+  "result": "{\n    \"settleable_score\": 0.8,\n    \"fun_score\": 0.05,\n    \"exploit_risk\": 0.1,\n    \"overall_confidence\": 0.2,\n    \"reasoning\": \"The referee's nationality can be objectively determined, but it's not a fun bet for casual fans and may be exploitable by experts, although we have moderate confidence in offering this market.\"\n}"
+}

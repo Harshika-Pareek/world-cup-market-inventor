@@ -1,0 +1,5 @@
+{
+  "key": "ce35aa0119c2e6d5ddf2fe25391d9a21",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: TIME\nCATEGORY GUIDANCE: This is a TIME-B",
+  "result": "{\n    \"settleable_score\": 0.05,\n    \"fun_score\": 0.85,\n    \"exploit_risk\": 0.25,\n    \"overall_confidence\": 0.85,\n    \"reasoning\": \"This market is settleable, fun for casual fans, but has a moderate exploit risk due to the subjective nature of timing, and we have moderate confidence in offering it.\"\n}"
+}

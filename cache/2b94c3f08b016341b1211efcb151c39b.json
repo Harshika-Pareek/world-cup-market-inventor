@@ -1,0 +1,5 @@
+{
+  "key": "2b94c3f08b016341b1211efcb151c39b",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: STATS\nCATEGORY GUIDANCE: This is a STATS",
+  "result": "{\n    \"settleable_score\": 0.8,\n    \"fun_score\": 0.6,\n    \"exploit_risk\": 0.5,\n    \"overall_confidence\": 0.65,\n    \"reasoning\": \"This market is settleable as possession can be objectively tracked, it's fun for casual fans to bet on, there's a moderate risk of experts exploiting our pricing, and we have moderate confidence in offering this market due to the match situation giving us a late information edge.\"\n}"
+}

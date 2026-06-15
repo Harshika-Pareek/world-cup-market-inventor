@@ -1,0 +1,5 @@
+{
+  "key": "f701885677f8eb50d50cc658f2c27a9b",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: GENERAL\nCATEGORY GUIDANCE: Evaluate this",
+  "result": "{\n    \"settleable_score\": 0.8,\n    \"fun_score\": 0.6,\n    \"exploit_risk\": 0.4,\n    \"overall_confidence\": 0.7,\n    \"reasoning\": \"This market is settleable as the number of counter-attacks can be objectively determined, but it may not be as engaging for casual fans. Experts may be able to exploit the pricing due to the subjective nature of the market, but we have moderate confidence in offering this market.\"\n}"
+}

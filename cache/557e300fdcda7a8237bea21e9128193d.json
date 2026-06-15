@@ -1,0 +1,5 @@
+{
+  "key": "557e300fdcda7a8237bea21e9128193d",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: STATS\nCATEGORY GUIDANCE: This is a STATS",
+  "result": "{\n    \"settleable_score\": 0.8,\n    \"fun_score\": 0.6,\n    \"exploit_risk\": 0.5,\n    \"overall_confidence\": 0.65,\n    \"reasoning\": \"This market is settleable as possession can be objectively determined, it's fun for casual fans to bet on, there's a moderate risk of experts exploiting our pricing, and we have a relatively high confidence in offering this market due to the Netherlands' historical possession dominance.\"\n}"
+}

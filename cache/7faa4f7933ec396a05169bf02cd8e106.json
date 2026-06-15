@@ -1,0 +1,5 @@
+{
+  "key": "7faa4f7933ec396a05169bf02cd8e106",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: STATS\nCATEGORY GUIDANCE: This is a STATS",
+  "result": "{\n    \"settleable_score\": 0.8,\n    \"fun_score\": 0.6,\n    \"exploit_risk\": 0.5,\n    \"overall_confidence\": 0.65,\n    \"reasoning\": \"This market has a high settleable score as the total number of corners can be objectively determined. It also has a moderate fun score as casual fans may enjoy betting on the number of corners. However, the exploit risk is moderate as experts may be able to beat our pricing, especially in match situations where late information gives an edge. Overall, our confidence in offering this market is high.\"\n}"
+}

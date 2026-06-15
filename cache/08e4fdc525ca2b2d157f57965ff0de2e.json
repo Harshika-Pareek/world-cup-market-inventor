@@ -1,0 +1,5 @@
+{
+  "key": "08e4fdc525ca2b2d157f57965ff0de2e",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: GENERAL\nCATEGORY GUIDANCE: Evaluate this",
+  "result": "{\n    \"settleable_score\": 0.8,\n    \"fun_score\": 0.6,\n    \"exploit_risk\": 0.2,\n    \"overall_confidence\": 0.7,\n    \"reasoning\": \"This market is settleable as we can objectively determine if Gvardiol provides an assist, it's moderately fun for casual fans as they can easily understand the concept, there's a moderate exploit risk as experts may be able to analyze Gvardiol's past performances and team dynamics, and we have moderate confidence in offering this market.\"\n}"
+}

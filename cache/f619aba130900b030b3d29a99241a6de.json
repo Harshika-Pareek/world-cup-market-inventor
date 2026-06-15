@@ -1,0 +1,5 @@
+{
+  "key": "f619aba130900b030b3d29a99241a6de",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: OUTCOME\nCATEGORY GUIDANCE: This is an OU",
+  "result": "{\n    \"settleable_score\": 0.9,\n    \"fun_score\": 0.8,\n    \"exploit_risk\": 0.4,\n    \"overall_confidence\": 0.82,\n    \"reasoning\": \"This market is settleable, fun for casual fans, and has a moderate exploit risk, making it a good addition to our platform.\"\n}"
+}

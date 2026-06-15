@@ -1,0 +1,5 @@
+{
+  "key": "afeff36b1a0439a38e2cc9b9aad6af34",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: STATS\nCATEGORY GUIDANCE: This is a STATS",
+  "result": "{\n    \"settleable_score\": 0.85,\n    \"fun_score\": 0.6,\n    \"exploit_risk\": 0.5,\n    \"overall_confidence\": 0.65,\n    \"reasoning\": \"The market for total corners over 9.5 can be objectively settled with data and has moderate appeal to casual fans, but experts may find an edge in certain match situations.\"\n}"
+}

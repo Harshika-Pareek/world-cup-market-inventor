@@ -1,0 +1,5 @@
+{
+  "key": "10f52d510dd46575b57b78557a6a366b",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: DISCIPLINE\nCATEGORY GUIDANCE: This is a ",
+  "result": "{\n    \"settleable_score\": 0.95,\n    \"fun_score\": 0.8,\n    \"exploit_risk\": 0.25,\n    \"overall_confidence\": 0.82,\n    \"reasoning\": \"This market is settleable due to the objective nature of yellow cards, entertaining for casual fans, but has a moderate exploit risk due to the unpredictability of referees, and we have moderate confidence in offering this market.\"\n}"
+}

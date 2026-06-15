@@ -1,0 +1,5 @@
+{
+  "key": "84b4ea3094e94dd4c18d91275ad92cc1",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: OUTCOME\nCATEGORY GUIDANCE: This is an OU",
+  "result": "{\n    \"settleable_score\": 0.95,\n    \"fun_score\": 0.85,\n    \"exploit_risk\": 0.45,\n    \"overall_confidence\": 0.82,\n    \"reasoning\": \"Gvardiol is a skilled player with a high chance of scoring or assisting, making this market settleable and fun for fans. However, experts may be able to exploit the pricing due to the subjective nature of assist definitions, and our overall confidence in the market is high but not extremely high.\"\n}"
+}

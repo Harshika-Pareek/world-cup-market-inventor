@@ -1,0 +1,5 @@
+{
+  "key": "21928c69a0cea93bd7cc8cd3dd104dc9",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: STATS\nCATEGORY GUIDANCE: This is a STATS",
+  "result": "{\n    \"settleable_score\": 0.8,\n    \"fun_score\": 0.2,\n    \"exploit_risk\": 0.5,\n    \"overall_confidence\": 0.65,\n    \"reasoning\": \"The settleable score is high due to the objective nature of corners, but the fun score is low as casual fans may not find corners exciting. The exploit risk is moderate as experts may have an edge in late information, but overall confidence is high due to the match situation giving a late information edge.\"\n}"
+}

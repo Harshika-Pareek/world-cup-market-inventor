@@ -1,0 +1,5 @@
+{
+  "key": "9d9434740337a8a89d1d0bc45d9362ba",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: OUTCOME\nCATEGORY GUIDANCE: This is an OU",
+  "result": "{\n    \"settleable_score\": 0.9,\n    \"fun_score\": 0.8,\n    \"exploit_risk\": 0.4,\n    \"overall_confidence\": 0.85,\n    \"reasoning\": \"Bukayo Saka is a skilled player with a history of scoring goals, making this market settleable and fun for fans. However, there is a moderate risk of experts exploiting our pricing due to the subjective nature of player performance.\"\n}"
+}

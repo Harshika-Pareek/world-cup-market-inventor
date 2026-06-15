@@ -1,0 +1,5 @@
+{
+  "key": "ec7920c7cf31d6db75129b1995cd6085",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: TIME\nCATEGORY GUIDANCE: This is a TIME-B",
+  "result": "{\n    \"settleable_score\": 0.95,\n    \"fun_score\": 0.85,\n    \"exploit_risk\": 0.25,\n    \"overall_confidence\": 0.88,\n    \"reasoning\": \"This market is settleable as Modric's chances can be objectively determined, fun for casual fans as it adds tension in the last 20 minutes, and has a moderate exploit risk as experts may not be able to accurately predict timing, but we have high overall confidence in offering this market.\"\n}"
+}

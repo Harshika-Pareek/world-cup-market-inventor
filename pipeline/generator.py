@@ -44,6 +44,13 @@ USE THESE SPECIFIC SIGNALS TO CREATE RELEVANT MARKETS:
  - At least 2 outcome-based markets
  Do not repeat similar market types.
 
+SIGNAL CONNECTION RULES — each market MUST connect to a signal:
+- Reference specific players from the signals above
+- Use tactical information from formations provided
+- Use goalkeeper stats for goalkeeper markets
+- Use defensive records for defensive markets
+- Do not invent facts not in the signals above
+
 Return ONLY a valid JSON array. No markdown. No explanation.
 
 [

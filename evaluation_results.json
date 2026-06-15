@@ -3,165 +3,165 @@
     "market": "Will there be a red card?",
     "category": "discipline",
     "verdict_correct": true,
-    "llm_confidence": 0.78,
+    "llm_confidence": 0.88,
     "expert_confidence": 0.88,
-    "score_difference": 0.1,
+    "score_difference": 0.0,
     "llm_verdict": "APPROVED",
     "expert_verdict": "APPROVED",
-    "llm_reasoning": "The market is straightforward to settle and can be exciting for fans, but experts may attempt to exploit it by analyzing team and player disciplinary records."
+    "llm_reasoning": "The market is highly settleable as the outcome can be objectively determined, and fans enjoy the drama of a potential red card, but experts may attempt to exploit pricing due to referee unpredictability."
   },
   {
     "market": "Most creative celebration",
     "category": "subjective",
     "verdict_correct": true,
-    "llm_confidence": 0.41,
+    "llm_confidence": 0.42,
     "expert_confidence": 0.15,
-    "score_difference": 0.26,
+    "score_difference": 0.27,
     "llm_verdict": "REJECTED",
     "expert_verdict": "REJECTED",
-    "llm_reasoning": "This market is too subjective and prone to customer disputes."
+    "llm_reasoning": "Determining the most creative celebration is subjective and difficult to settle objectively, making it a challenging market to offer."
   },
   {
     "market": "First goal before 10 minutes",
     "category": "time_based",
     "verdict_correct": true,
-    "llm_confidence": 0.88,
+    "llm_confidence": 0.9,
     "expert_confidence": 0.9,
-    "score_difference": 0.02,
+    "score_difference": 0.0,
     "llm_verdict": "APPROVED",
     "expert_verdict": "APPROVED",
-    "llm_reasoning": "This market is a time-based market with a clear and objective outcome, making it suitable for customers."
+    "llm_reasoning": "This market is highly settleable, enjoyable for fans, and has a moderate risk of being exploited by experts, making it a great offering."
   },
   {
     "market": "Both teams score",
     "category": "outcome",
     "verdict_correct": true,
-    "llm_confidence": 0.88,
+    "llm_confidence": 0.85,
     "expert_confidence": 0.82,
-    "score_difference": 0.06,
+    "score_difference": 0.03,
     "llm_verdict": "APPROVED",
     "expert_verdict": "APPROVED",
-    "llm_reasoning": "This market is straightforward to settle and has a high level of customer confidence."
+    "llm_reasoning": "This market is straightforward to settle and fans enjoy the suspense of both teams scoring, with moderate risk of expert exploitation."
   },
   {
     "market": "Referee nationality",
     "category": "trivial",
     "verdict_correct": false,
-    "llm_confidence": 0.73,
+    "llm_confidence": 0.6,
     "expert_confidence": 0.38,
-    "score_difference": 0.35,
+    "score_difference": 0.22,
     "llm_verdict": "REVIEW",
     "expert_verdict": "REJECTED",
-    "llm_reasoning": "This market is trivial and lacks excitement for casual fans."
+    "llm_reasoning": "The referee's nationality can be objectively determined, but it's not a fun bet for casual fans and may be exploitable by experts, although we have moderate confidence in offering this market."
   },
   {
     "market": "Match goes to extra time",
     "category": "outcome",
     "verdict_correct": true,
-    "llm_confidence": 0.9,
+    "llm_confidence": 0.88,
     "expert_confidence": 0.85,
-    "score_difference": 0.05,
+    "score_difference": 0.03,
     "llm_verdict": "APPROVED",
     "expert_verdict": "APPROVED",
-    "llm_reasoning": "The outcome is clearly determined by the score at the end of 90 minutes, making it a straightforward and exciting market to offer to customers."
+    "llm_reasoning": "This market is settleable as the outcome can be objectively determined, fun for casual fans as it creates tension, and has a moderate exploit risk due to the unpredictability of timing, with high overall confidence in offering this market."
   },
   {
     "market": "Total corners over 9.5",
     "category": "stats",
-    "verdict_correct": false,
-    "llm_confidence": 0.8,
+    "verdict_correct": true,
+    "llm_confidence": 0.68,
     "expert_confidence": 0.67,
-    "score_difference": 0.13,
-    "llm_verdict": "APPROVED",
+    "score_difference": 0.01,
+    "llm_verdict": "REVIEW",
     "expert_verdict": "REVIEW",
-    "llm_reasoning": "The market is settleable and enjoyable, but experts may have an edge in predicting corner kicks."
+    "llm_reasoning": "This market has a high settleable score due to the objective nature of counting corners, but a moderate exploit risk as experts may be able to identify late information that affects corner count. Casual fans may enjoy this bet as it's a simple and easy-to-understand market. Overall confidence is moderate due to the borderline nature of the exploit risk and settleable score."
   },
   {
     "market": "Goalkeeper Makes 5 Plus Saves",
     "category": "goalkeeper",
     "verdict_correct": true,
-    "llm_confidence": 0.82,
+    "llm_confidence": 0.85,
     "expert_confidence": 0.78,
-    "score_difference": 0.04,
+    "score_difference": 0.07,
     "llm_verdict": "APPROVED",
     "expert_verdict": "APPROVED",
-    "llm_reasoning": "This market is a well-established and safe goalkeeper market with clear settlement criteria."
+    "llm_reasoning": "This market is settleable due to the clear objective of 5+ saves, fans will enjoy the drama of a goalkeeper making many saves, there is a moderate exploit risk as experts can analyze the goalkeeper's past performances, and we have moderate confidence in offering this market."
   },
   {
     "market": "Clean Sheet For Either Team",
     "category": "goalkeeper",
     "verdict_correct": true,
-    "llm_confidence": 0.82,
+    "llm_confidence": 0.85,
     "expert_confidence": 0.86,
-    "score_difference": 0.04,
+    "score_difference": 0.01,
     "llm_verdict": "APPROVED",
     "expert_verdict": "APPROVED",
-    "llm_reasoning": "This market is a well-established and safe goalkeeper-related market with clear settlement criteria."
+    "llm_reasoning": "This market is settleable as we can objectively determine the winner based on the number of goals scored by both teams, it's fun for casual fans as they love the drama of a clean sheet, there's a moderate exploit risk as experts can't significantly influence the outcome, and we have a high overall confidence in offering this market."
   },
   {
     "market": "Match Decided By Penalty Shootout",
     "category": "goalkeeper",
     "verdict_correct": true,
-    "llm_confidence": 0.88,
+    "llm_confidence": 0.85,
     "expert_confidence": 0.92,
-    "score_difference": 0.04,
+    "score_difference": 0.07,
     "llm_verdict": "APPROVED",
     "expert_verdict": "APPROVED",
-    "llm_reasoning": "The outcome is clearly determined by official rules and easily verifiable."
+    "llm_reasoning": "This market is settleable as the outcome can be objectively determined, fun for casual fans as it involves a dramatic penalty shootout, and has a moderate exploit risk as experts can't significantly influence the outcome, but we have moderate confidence in offering this market."
   },
   {
     "market": "Goalkeeper Saves Penalty In Match",
     "category": "goalkeeper",
     "verdict_correct": true,
-    "llm_confidence": 0.82,
+    "llm_confidence": 0.85,
     "expert_confidence": 0.9,
-    "score_difference": 0.08,
+    "score_difference": 0.05,
     "llm_verdict": "APPROVED",
     "expert_verdict": "APPROVED",
-    "llm_reasoning": "This market is a well-established and safe goalkeeper market with clear settlement criteria."
+    "llm_reasoning": "This market is settleable as we can objectively determine the winner based on penalty saves, it's fun for casual fans as they love goalkeeper drama, there's a moderate exploit risk as experts can't significantly influence goalkeeper saves, and we have a high overall confidence in offering this market."
   },
   {
     "market": "Goalkeeper Named Player Of The Match",
     "category": "goalkeeper",
-    "verdict_correct": true,
-    "llm_confidence": 0.74,
+    "verdict_correct": false,
+    "llm_confidence": 0.85,
     "expert_confidence": 0.72,
-    "score_difference": 0.02,
-    "llm_verdict": "REVIEW",
+    "score_difference": 0.13,
+    "llm_verdict": "APPROVED",
     "expert_verdict": "REVIEW",
-    "llm_reasoning": "The market is settleable as the official player of the match award is clearly determined, but it may not be the most exciting bet for casual fans and has a relatively low risk of being exploited by experts."
+    "llm_reasoning": "This market is settleable as the official player of the match award is typically objective, casual fans would enjoy the drama of a goalkeeper winning, there's a moderate risk of experts exploiting the pricing, and we have moderate confidence in offering this market."
   },
   {
     "market": "Most saves by goalkeeper over 3.5",
     "category": "goalkeeper",
     "verdict_correct": false,
-    "llm_confidence": 0.82,
+    "llm_confidence": 0.85,
     "expert_confidence": 0.72,
-    "score_difference": 0.1,
+    "score_difference": 0.13,
     "llm_verdict": "APPROVED",
     "expert_verdict": "REVIEW",
-    "llm_reasoning": "This market is a goalkeeper market with clear and objective settlement criteria, making it a safe and enjoyable bet for customers."
+    "llm_reasoning": "This market is settleable as we can objectively determine the winner based on the number of saves made by the goalkeeper, it's fun for casual fans as they love goalkeeper drama, there's a moderate exploit risk as experts can't significantly influence goalkeeper saves, and we have a high overall confidence in offering this market due to its settleable nature and moderate exploit risk."
   },
   {
     "market": "Croatia formation switch",
     "category": "tactical",
-    "verdict_correct": false,
-    "llm_confidence": 0.5,
+    "verdict_correct": true,
+    "llm_confidence": 0.45,
     "expert_confidence": 0.18,
-    "score_difference": 0.32,
-    "llm_verdict": "REVIEW",
+    "score_difference": 0.27,
+    "llm_verdict": "REJECTED",
     "expert_verdict": "REJECTED",
-    "llm_reasoning": "The market is too ambiguous to settle fairly due to the subjective nature of formation changes."
+    "llm_reasoning": "The settleable score is moderate due to the subjective nature of formations, the fun score is high as casual fans would enjoy the uncertainty, the exploit risk is moderate as experts may be able to identify patterns, and the overall confidence is low due to the ambiguity of the market."
   },
   {
     "market": "Total yellow cards over 3.5",
     "category": "discipline",
     "verdict_correct": true,
-    "llm_confidence": 0.78,
+    "llm_confidence": 0.86,
     "expert_confidence": 0.8,
-    "score_difference": 0.02,
+    "score_difference": 0.06,
     "llm_verdict": "APPROVED",
     "expert_verdict": "APPROVED",
-    "llm_reasoning": "The market is settleable and enjoyable, but experts may slightly exploit it due to their knowledge of referee tendencies and team disciplinary records."
+    "llm_reasoning": "This market is settleable due to the objective nature of yellow cards, entertaining for casual fans, but has a moderate exploit risk due to the unpredictability of referees, and we have moderate confidence in offering this market."
   }
 ]
