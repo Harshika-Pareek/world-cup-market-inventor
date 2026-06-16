@@ -1,0 +1,5 @@
+{
+  "key": "1ccdd29a9ca85a9a8f92439927f139d5",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: STATS\nCATEGORY GUIDANCE: This is a STATS",
+  "result": "{\n    \"settleable_score\": 0.85,\n    \"fun_score\": 0.6,\n    \"exploit_risk\": 0.5,\n    \"overall_confidence\": 0.65,\n    \"reasoning\": \"Gvardiol's shot statistics are readily available, making it settleable, but expert analysis of his recent form and team's playing style could pose an exploit risk.\"\n}"
+}

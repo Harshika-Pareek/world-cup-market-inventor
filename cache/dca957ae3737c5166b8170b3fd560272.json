@@ -1,0 +1,5 @@
+{
+  "key": "dca957ae3737c5166b8170b3fd560272",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: TACTICAL\nCATEGORY GUIDANCE: This is a TA",
+  "result": "{\n    \"settleable_score\": 0.3,\n    \"fun_score\": 0.8,\n    \"exploit_risk\": 0.7,\n    \"overall_confidence\": 0.25,\n    \"reasoning\": \"This market is difficult to settle objectively due to lack of information, but it could be enjoyable for casual fans and is vulnerable to expert exploitation.\"\n}"
+}

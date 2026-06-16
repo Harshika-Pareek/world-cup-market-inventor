@@ -44,6 +44,21 @@
       "exploit_risk": 0.25,
       "ai_reasoning": "This market is settleable due to the clear nature of conceding the first goal, it's fun for casual fans as they can enjoy the tension of the early stages of the match, there's a moderate exploit risk as experts can analyze the teams' defensive strategies, and we have a high overall confidence in offering this market.",
       "timestamp": "2026-06-14 22:46:41"
+    },
+    {
+      "match": "Brazil vs Germany",
+      "market_name": "No Goals in First 20 Mins",
+      "description": "This bet settles as a winner if there are no goals scored in the first 20 minutes of the match, considering the lack of information about Brazil's form and tactics.",
+      "ai_recommendation": "APPROVED",
+      "ai_confidence": 0.9,
+      "trader_decision": "APPROVED",
+      "trader_agrees_with_ai": true,
+      "rejection_reason": null,
+      "settleable_score": 0.98,
+      "fun_score": 0.85,
+      "exploit_risk": 0.25,
+      "ai_reasoning": "This market is highly settleable, enjoyable for fans, and has moderate exploit risk due to its time-based nature and lack of dependency on team-specific information.",
+      "timestamp": "2026-06-15 22:44:51"
     }
   ]
 }

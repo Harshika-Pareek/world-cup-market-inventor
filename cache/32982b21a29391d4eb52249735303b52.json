@@ -1,0 +1,5 @@
+{
+  "key": "32982b21a29391d4eb52249735303b52",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: STATS\nCATEGORY GUIDANCE: This is a STATS",
+  "result": "{\n    \"settleable_score\": 0.85,\n    \"fun_score\": 0.8,\n    \"exploit_risk\": 0.5,\n    \"overall_confidence\": 0.65,\n    \"reasoning\": \"The market is settleable with data from a reliable provider, and while experts may have an edge, the overall confidence in offering this market is moderate due to its borderline nature.\"\n}"
+}

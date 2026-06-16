@@ -1,0 +1,5 @@
+{
+  "key": "2a9a6b482a5ce13426f7fb49eab44e09",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: DISCIPLINE\nCATEGORY GUIDANCE: This is a ",
+  "result": "{\n    \"settleable_score\": 0.98,\n    \"fun_score\": 0.82,\n    \"exploit_risk\": 0.28,\n    \"overall_confidence\": 0.85,\n    \"reasoning\": \"The market combines objective and verifiable outcomes, making it settleable, enjoyable for fans, and relatively resistant to expert exploitation.\"\n}"
+}

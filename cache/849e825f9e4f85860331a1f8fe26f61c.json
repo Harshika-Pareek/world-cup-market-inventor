@@ -1,0 +1,5 @@
+{
+  "key": "849e825f9e4f85860331a1f8fe26f61c",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: GENERAL\nCATEGORY GUIDANCE: Evaluate this",
+  "result": "{\n    \"settleable_score\": 0.8,\n    \"fun_score\": 0.6,\n    \"exploit_risk\": 0.4,\n    \"overall_confidence\": 0.7,\n    \"reasoning\": \"The market is settleable and has moderate fun and exploit risk, but its overall confidence is decent due to the specific and measurable nature of the event.\"\n}"
+}

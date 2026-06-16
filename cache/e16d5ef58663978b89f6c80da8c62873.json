@@ -1,0 +1,5 @@
+{
+  "key": "e16d5ef58663978b89f6c80da8c62873",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: OUTCOME\nCATEGORY GUIDANCE: This is an OU",
+  "result": "{\n    \"settleable_score\": 0.95,\n    \"fun_score\": 0.85,\n    \"exploit_risk\": 0.4,\n    \"overall_confidence\": 0.82,\n    \"reasoning\": \"Germany's high-scoring win against Curacao suggests they have a strong offense, making it likely they will score in both halves, but the outcome still depends on various factors like opponent strength and game dynamics.\"\n}"
+}

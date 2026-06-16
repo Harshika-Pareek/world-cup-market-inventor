@@ -1,0 +1,5 @@
+{
+  "key": "e43058750f6eb5a777e60ec4696c51ac",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: GOALKEEPER\nCATEGORY GUIDANCE: This is a ",
+  "result": "{\n    \"settleable_score\": 0.9,\n    \"fun_score\": 0.8,\n    \"exploit_risk\": 0.2,\n    \"overall_confidence\": 0.88,\n    \"reasoning\": \"England's clean sheet is a straightforward outcome to determine and fans enjoy the drama of a team defending their goal.\"\n}"
+}

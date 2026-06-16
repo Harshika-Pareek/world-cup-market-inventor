@@ -1,0 +1,5 @@
+{
+  "key": "8c1d052eb02b89e6becaf3b9aa6de142",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: STATS\nCATEGORY GUIDANCE: This is a STATS",
+  "result": "{\n    \"settleable_score\": 0.85,\n    \"fun_score\": 0.8,\n    \"exploit_risk\": 0.5,\n    \"overall_confidence\": 0.65,\n    \"reasoning\": \"This market can be objectively settled with data from a reliable provider and offers an interesting tactical aspect, but experts may still find an edge in pricing.\"\n}"
+}

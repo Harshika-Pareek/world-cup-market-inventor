@@ -1,0 +1,5 @@
+{
+  "key": "55a2afb26abc6323c87259235a285fa9",
+  "prompt_preview": "\nYou are a senior betting market analyst.\n\nMARKET CATEGORY: STATS\nCATEGORY GUIDANCE: This is a STATS",
+  "result": "{\n    \"settleable_score\": 0.85,\n    \"fun_score\": 0.6,\n    \"exploit_risk\": 0.5,\n    \"overall_confidence\": 0.65,\n    \"reasoning\": \"Croatia's possession statistics can be reliably tracked and verified, making it a settleable market, but the 60% threshold introduces some uncertainty and potential for expert exploitation.\"\n}"
+}
