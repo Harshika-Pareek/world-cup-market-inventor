@@ -1,4 +1,4 @@
-# ⚽ World Cup 2026 — AI Market Inventor
+# World Cup 2026 — AI Market Inventor
 
 > **Novel betting market generation with signal extraction, LLM self-critique, confidence scoring and human governance**
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 🎯 What This Does
+##  What This Does
 
 Turns unstructured World Cup news into novel, scored, and ranked betting markets in under 60 seconds.
 
@@ -96,7 +96,7 @@ world-cup-market-inventor/
 
 ---
 
-## 📊 Confidence Formula
+## Confidence Formula
 
 ```
 confidence = (settleable_score × 0.5) + (fun_score × 0.3) + ((1 - exploit_risk) × 0.2)
