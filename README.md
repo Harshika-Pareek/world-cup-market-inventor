@@ -249,7 +249,7 @@ python test_cache.py
 | Area | Current | Production |
 |------|---------|------------|
 | **API** | Streamlit button | FastAPI + NewsAPI webhook |
-| **Cache** | In-memory dict | Redis with TTL |
+| **Cache** | In-memory dict | Redis with TTL( Time To Live) - Delete all the cached data in 24 hours from RAM |
 | **Database** | decisions.json | PostgreSQL |
 | **LLM monitoring** | Print statements | Langfuse observability |
 | **Prompt versioning** | Hardcoded strings | Git-versioned prompt files |
