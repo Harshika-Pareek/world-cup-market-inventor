@@ -1,9 +1,30 @@
+# API Keys — never push these
 .env
+
+# Python
 __pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
 venv/
 .venv/
+
+# MLflow
 mlruns/
 mlflow.db
+*.db
+
+# IDE
 .vscode/
 .idea/
-*.pyc
+
+# Sensitive data files
+data/decisions.json
+evaluation_results.json
+
+# Cache
+cache/
+
+# Test outputs
+evaluation_results.json
