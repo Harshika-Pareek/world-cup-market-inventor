@@ -249,7 +249,6 @@ python test_cache.py
 | Area | Current | Production |
 |------|---------|------------|
 | **API** | Streamlit button | FastAPI(NewsAPI publishes new article NewsAPI automatically calls app endpoint)
-Markets ready before trader arrives) + NewsAPI webhook |
 | **Cache** | In-memory dict | Redis with TTL( Time To Live) - Delete all the cached data in 24 hours from RAM |
 | **Database** | decisions.json | PostgreSQL |
 | **LLM monitoring** | Print statements | Langfuse observability |
