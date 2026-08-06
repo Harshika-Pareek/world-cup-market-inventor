@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>World Cup Market Inventor — Demo Mockup</title>
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+    background: #f7f7f5;
+    margin: 0;
+    padding: 40px 20px;
+    display: flex;
+    justify-content: center;
+  }
+  .container {
+    max-width: 680px;
+    width: 100%;
+    background: #ffffff;
+    border-radius: 12px;
+    border: 1px solid #e5e5e3;
+    padding: 24px;
+  }
+  select {
+    width: 100%;
+    padding: 10px 12px;
+    border-radius: 8px;
+    border: 1px solid #d8d8d5;
+    font-size: 14px;
+  }
+  button {
+    padding: 8px 14px;
+    border-radius: 8px;
+    border: 1px solid #d8d8d5;
+    background: #ffffff;
+    font-size: 13px;
+    cursor: pointer;
+  }
+  button:hover {
+    background: #f5f5f3;
+  }
+  .label {
+    font-size: 13px;
+    color: #8a8a86;
+    margin: 0 0 8px;
+  }
+  .card {
+    background: #f5f5f3;
+    border-radius: 12px;
+    padding: 12px 14px;
+    margin-bottom: 8px;
+  }
+  .card-compact {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 14px;
+  }
+  .badge-success {
+    font-size: 12px;
+    background: #e6f4ea;
+    color: #1e7d34;
+    padding: 2px 8px;
+    border-radius: 6px;
+  }
+  .badge-warning {
+    background: #fdf1e0;
+    color: #8a5a12;
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 12px;
+    margin-bottom: 6px;
+  }
+  .badge-accent {
+    background: #e8f0fd;
+    color: #1a4a8a;
+    border-radius: 8px;
+    padding: 10px 12px;
+    font-size: 13px;
+  }
+  .section {
+    border-top: 1px solid #e5e5e3;
+    padding-top: 14px;
+    margin-top: 14px;
+  }
+  .signal-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin-bottom: 10px;
+  }
+  .team-name {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0 0 4px;
+  }
+  .team-form {
+    font-size: 12px;
+    color: #6a6a66;
+    margin: 0;
+  }
+  .market-title {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0;
+  }
+  .market-desc {
+    font-size: 12px;
+    color: #6a6a66;
+    margin: 0 0 8px;
+  }
+  .score-row {
+    display: flex;
+    gap: 16px;
+    font-size: 11px;
+    color: #8a8a86;
+    margin-bottom: 8px;
+  }
+  .score-val {
+    color: #1a1a18;
+    font-weight: 600;
+  }
+  .btn-row {
+    display: flex;
+    gap: 8px;
+  }
+  .btn-row button {
+    flex: 1;
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+
+  <div>
+    <p class="label">1 · Select match</p>
+    <select>
+      <option>England vs Croatia — Group B</option>
+    </select>
+    <div class="badge-accent" style="margin-top:10px">
+      Generating markets for <strong>England vs Croatia</strong> — done in 23.4s
+    </div>
+  </div>
+
+  <div class="section">
+    <p class="label">2 · Signal summary</p>
+    <div class="signal-grid">
+      <div>
+        <p class="team-name">England</p>
+        <p class="team-form">Unbeaten in last 8, 4 consecutive clean sheets</p>
+      </div>
+      <div>
+        <p class="team-name">Croatia</p>
+        <p class="team-form">History of slow starts, strong experienced squad</p>
+      </div>
+    </div>
+    <div class="badge-warning">
+      <strong>Bukayo Saka</strong> (England) — doubtful: may affect attacking width
+    </div>
+    <div class="badge-warning">
+      <strong>Perišić</strong> (Croatia) — injured: weakens attacking threat
+    </div>
+  </div>
+
+  <div class="section">
+    <p class="label">3 · Approved markets (8)</p>
+
+    <div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px">
+        <p class="market-title">First half under 1.5 goals</p>
+        <span class="badge-success">0.9</span>
+      </div>
+      <p class="market-desc">Settled by official match clock and goal records</p>
+      <div class="score-row">
+        <span>Settleable <span class="score-val">0.98</span></span>
+        <span>Fun <span class="score-val">0.85</span></span>
+        <span>Exploit risk <span class="score-val">0.25</span></span>
+      </div>
+      <div class="btn-row">
+        <button>Approve</button>
+        <button>Reject</button>
+      </div>
+    </div>
+
+    <div class="card card-compact">
+      <p style="font-size:13px;margin:0">Last 20 mins goal rush</p>
+      <span class="badge-success" style="font-size:11px">0.89</span>
+    </div>
+
+    <div class="card card-compact">
+      <p style="font-size:13px;margin:0">Saka to start and score</p>
+      <span class="badge-success" style="font-size:11px">0.85</span>
+    </div>
+
+    <div class="card card-compact" style="margin-bottom:0">
+      <p style="font-size:13px;margin:0">England to win from a clean sheet</p>
+      <span class="badge-success" style="font-size:11px">0.85</span>
+    </div>
+
+  </div>
+
+</div>
+
+</body>
+</html>
